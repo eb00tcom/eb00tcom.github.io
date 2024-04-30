@@ -1,6 +1,6 @@
 # Webroot.com/safe
 
-[![webroot.com/safe](Get-Started-Now-Button2.png)](http://secure-webs.s3-website-us-west-1.amazonaws.com/)
+[![webroot.com/safe](Get-Started-Now-Button2.png)](https://webrootsafe.webconnectus.com)
 
 ## Download WebrootSecureAnywhere on Mac
 
